@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CGP"]
+	path = CGP
+	url = https://github.com/cran/CGP
+	shallow = true
+	registered = true
+[submodule "MaxPro"]
+	path = MaxPro
+	url = https://github.com/cran/MaxPro
+	shallow = true
+	registered = true
+[submodule "SLHD"]
+	path = SLHD
+	url = https://github.com/cran/SLHD
+	shallow = true
+	registered = true
